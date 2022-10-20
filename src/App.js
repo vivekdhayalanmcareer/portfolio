@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React using CRA
+          Vivek Dhayalan M
         </a>
       </header>
     </div>
